@@ -1,11 +1,13 @@
 <h1 align="center">Hola 👋, soy Federico Sosa</h1>
 
-<h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
+<h3 align="center">Desarrollador Junior Fullstack</h3>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> 
 
-<h3 align="left">Lenguajes y herramientas:</h3>
 
+<h3 align="left">Lenguajes y herramientas:</h3>
+<br>
 <table>
   <thead>
     <tr>
@@ -43,10 +45,3 @@
     </tr>
   </tbody>
 </table>
-
-<br>
-
-
-
-
-
